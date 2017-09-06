@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edbf76386c39d6b4aa357c5bbe7af3a2, type: 3}
+  m_Name: Death3Dialogue
+  m_EditorClassIdentifier: 
+  senderName: Johnson
+  message: I am bleeding out...
+  lifeTime: 5
+  charTime: 0.0625
+  blahBlahClip: {fileID: 0}
+  asset: {fileID: 1660501802936234, guid: 3193fa81a69cbf145969d179ea0e36c5, type: 2}

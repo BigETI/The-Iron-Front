@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77baf3bd4b7965847a4f9615f2ada6cf, type: 3}
+  m_Name: SwordWeapon
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  icon: {fileID: 21300000, guid: f4bac59c401a76846b42de30db9bc094, type: 3}
+  topDownSprite: {fileID: 21300006, guid: b9e7d590a31b7be479822eaed422591e, type: 3}
+  sidescrollerSprite: {fileID: 0}
+  fireRate: 64
+  projectileQuantity: 1
+  damage: 10
+  projectileSpeed: 1
+  mobility: 1.25
+  accuracyAngle: 0
+  projectileLifeTime: 0.25
+  compatibleAttachments: []
+  projectileAssets:
+  - {fileID: 1614888703376336, guid: 762cc4eb2734cca41ab4b8a3a614efe8, type: 2}

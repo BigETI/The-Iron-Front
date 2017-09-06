@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.2">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>210</y>
+      <w>246</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>WeaponObjectScript : PickableObjectScript
+-
+- fireRate : float
+- damage: float
+- upgrades: AttachmentObjectScript[]
+- icon : Sprite
++ FireRate: float
++ Damage: float
++ Upgrades: IEnumerable&lt;AttachmentObjectScript&gt;
++ Icon: Sprite
+-</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>438</x>
+      <y>102</y>
+      <w>222</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>AttachmentObjectScript : ScriptableObject
+-
+- attachmentType : EAttachmentType
+- effectType : float
+- icon : Sprite
++ AttachmentType : EAttachmentType
++ EffectType : float
++ Icon : Sprite
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>756</y>
+      <w>168</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>/EAttachmentType/
+-
++ Precision
++ Damage
++ FireRate</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1224</x>
+      <y>390</y>
+      <w>288</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>PlayerControllerScript : CharacterControllerScript
+-
+
+-
+- Update() : void
+- FixedUpdate() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>750</x>
+      <y>516</y>
+      <w>228</w>
+      <h>54</h>
+    </coordinates>
+    <panel_attributes>CameraControllerScript : MonoBehaviour
+-
+- transform: Transform
+-
+- Update() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>438</x>
+      <y>378</y>
+      <w>186</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>DialogueManagerScript : MonoBehaviour
+-
+- charIndex : uint
+- instance : DialogManagerScript
+- currentDialog : DialogObjectScript
+- senderText : Text
+- messageText : Text
++ Instance : DialogManagerScript
++ CurrentDialog : DialogObjectScript
+-
+- Update(): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>888</x>
+      <y>102</y>
+      <w>258</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>DialogueObjectScript : ScriptableObject
+-
+- senderName: string
+- message: string
++ SenderName: string
++ Message: string
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>378</y>
+      <w>228</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>SpawnManagerScript : MonoBehaviour
+-
+- assets : GameObject[]
+- positions : Vector2[]
+-
++ Spawn() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>624</y>
+      <w>168</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>PlayerProgress
+-
+- instance: PlayerProgress
+- turretsData : TurretData[]
++ Instance: PlayerProgress
+-
++ PlayerProgress(fileName : string)
++ Load() : void
++ Save() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>666</x>
+      <y>210</y>
+      <w>168</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>TurretObjectScript : ScriptableObject
+-
+- fireRate : float
+- icon : Sprite
+- projectileAsset : GameObject
++ FireRate : float
++ Icon : Sprite
++ ProjectileAsset : GameObject
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>516</y>
+      <w>198</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>PickableControllerScript : MonoBehaviour
+-
+- pickableObject : PickableObjectScript
++ PickableObject : PickableObjectScript
+-</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>180</x>
+      <y>102</y>
+      <w>180</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>PickableObjectScript : ScriptableObject
+-
+- pickupName : string
++ PickupName : string
+-</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>264</x>
+      <y>180</y>
+      <w>18</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>438</x>
+      <y>252</y>
+      <w>210</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>FortressItemData
+-
+- item : FortressItemObjectScript
+- position : Vector2
++ Item : FortressItemObjectScript
++ Position : Vector2
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>666</x>
+      <y>378</y>
+      <w>180</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>InventoryManagerScript : MonoBehaviour
+-
+- instance : InventoryManagerScript
+- inventory : InventoryItemObjectScript[]
++ Instance : InventoryManagerScript
++ Inventory : InventoryItemObjectScript[]
+-
+- Awake() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1158</x>
+      <y>102</y>
+      <w>204</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>InventoryItemObjectScript : ScriptableObject
+-
+- itemName : string
+- icon : Sprite
++ ItemName : string
++ Icon : Sprite
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>996</x>
+      <y>516</y>
+      <w>234</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>TurretControllerScript : MonoBehaviour
+-
+- turretObject : TurretObjectScript
+-
+- FixedUpdate() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>666</x>
+      <y>102</y>
+      <w>204</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>FortressItemObjectScript : ScriptableObject
+-
+- itemName : string
++ ItemName : float
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>750</x>
+      <y>180</y>
+      <w>18</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>936</x>
+      <y>390</y>
+      <w>276</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>AIControllerScript : CharacterControllerScript
+-
+- dialogs : DialogueObjectScript
+-
+- Update() : void
+- FixedUpdate() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>936</x>
+      <y>210</y>
+      <w>576</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>CharacterControllerScript : MonoBehaviour
+-
+- characterRigidbody : Rigidbody2D
+- characterName : string
+- health : float
+- isVulnerable : bool
+- isAlive : bool
+- weapons : WeaponObjectScript[]
++ CharacterRigidbody : Rigidbody2D
++ CharacterName : string
++ Health : float
++ IsVulnerable : bool
++ IsAlive : bool
++ Weapons : WeaponObjectScript[]
+-
++ Damage(amount : float) : void
++ Die() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1068</x>
+      <y>366</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1368</x>
+      <y>366</y>
+      <w>18</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1260</x>
+      <y>516</y>
+      <w>198</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>/EMovementType/
+-
++ Sidescroller
++ TopDown</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>510</y>
+      <w>294</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>GameManagerScript : MonoBehaviour
+-
+- instance : GameManagerScript
+- movementType : EMovementType
++ Instance : GameManagerScript
++ MovementType : EMovementType</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>420</x>
+      <y>624</y>
+      <w>168</w>
+      <h>78</h>
+    </coordinates>
+    <panel_attributes>TurretData
+-
+- resourceName : string
+- turret : TurretObjectScript
++ Turret : TurretObjectScript
+-
+TurretData()
+TurretData(turret : TurretObjectScript)</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>750</x>
+      <y>624</y>
+      <w>186</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>ItemControllerScript : MonoBehaviour
+-
+
+-
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

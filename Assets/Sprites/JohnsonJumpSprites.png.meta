@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 702ff4b73ab2aed42a1c2bb208182578
+timeCreated: 1504567476
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: JohnsonJumpSprite_0
+    21300002: JohnsonJumpSprite_1
+    21300004: JohnsonJumpSprite_2
+    21300006: JohnsonJumpSprite_3
+    21300008: JohnsonJumpSprite_4
+    21300010: JohnsonJumpSprite_5
+    21300012: JohnsonJumpSprite_6
+    21300014: JohnsonJumpSprite_7
+    21300016: JohnsonJumpSprite_8
+    21300018: JohnsonJumpSprite_9
+    21300020: JohnsonJumpSprite_10
+    21300022: JohnsonJumpSprite_11
+    21300024: JohnsonJumpSprite_12
+    21300026: JohnsonJumpSprite_13
+    21300028: JohnsonJumpSprite_14
+    21300030: JohnsonJumpSprite_15
+    21300032: JohnsonJumpSprite_16
+    21300034: JohnsonJumpSprite_17
+    21300036: JohnsonJumpSprite_18
+    21300038: JohnsonJumpSprite_19
+    21300040: JohnsonJumpSprite_20
+    21300042: JohnsonJumpSprite_21
+    21300044: JohnsonJumpSprite_22
+    21300046: JohnsonJumpSprite_23
+    21300048: JohnsonJumpSprite_24
+    21300050: JohnsonJumpSprite_25
+    21300052: JohnsonJumpSprite_26
+    21300054: JohnsonJumpSprite_27
+    21300056: JohnsonJumpSprite_28
+    21300058: JohnsonJumpSprite_29
+    21300060: JohnsonJumpSprite_30
+    21300062: JohnsonJumpSprite_31
+    21300064: JohnsonJumpSprite_32
+    21300066: JohnsonJumpSprite_33
+    21300068: JohnsonJumpSprite_34
+    21300070: JohnsonJumpSprite_35
+    21300072: JohnsonJumpSprite_36
+    21300074: JohnsonJumpSprite_37
+    21300076: JohnsonJumpSprite_38
+    21300078: JohnsonJumpSprite_39
+    21300080: JohnsonJumpSprite_40
+    21300082: JohnsonJumpSprite_41
+    21300084: JohnsonJumpSprite_42
+    21300086: JohnsonJumpSprite_43
+    21300088: JohnsonJumpSprite_44
+    21300090: JohnsonJumpSprite_45
+    21300092: JohnsonJumpSprite_46
+    21300094: JohnsonJumpSprite_47
+    21300096: JohnsonJumpSprites_0
+    21300098: JohnsonJumpSprites_1
+    21300100: JohnsonJumpSprites_2
+    21300102: JohnsonJumpSprites_3
+    21300104: JohnsonJumpSprites_4
+    21300106: JohnsonJumpSprites_5
+    21300108: JohnsonJumpSprites_6
+    21300110: JohnsonJumpSprites_7
+    21300112: JohnsonJumpSprites_8
+    21300114: JohnsonJumpSprites_9
+    21300116: JohnsonJumpSprites_10
+    21300118: JohnsonJumpSprites_11
+    21300120: JohnsonJumpSprites_12
+    21300122: JohnsonJumpSprites_13
+    21300124: JohnsonJumpSprites_14
+    21300126: JohnsonJumpSprites_15
+    21300128: JohnsonJumpSprites_16
+    21300130: JohnsonJumpSprites_17
+    21300132: JohnsonJumpSprites_18
+    21300134: JohnsonJumpSprites_19
+    21300136: JohnsonJumpSprites_20
+    21300138: JohnsonJumpSprites_21
+    21300140: JohnsonJumpSprites_22
+    21300142: JohnsonJumpSprites_23
+    21300144: JohnsonJumpSprites_24
+    21300146: JohnsonJumpSprites_25
+    21300148: JohnsonJumpSprites_26
+    21300150: JohnsonJumpSprites_27
+    21300152: JohnsonJumpSprites_28
+    21300154: JohnsonJumpSprites_29
+    21300156: JohnsonJumpSprites_30
+    21300158: JohnsonJumpSprites_31
+    21300160: JohnsonJumpSprites_32
+    21300162: JohnsonJumpSprites_33
+    21300164: JohnsonJumpSprites_34
+    21300166: JohnsonJumpSprites_35
+    21300168: JohnsonJumpSprites_36
+    21300170: JohnsonJumpSprites_37
+    21300172: JohnsonJumpSprites_38
+    21300174: JohnsonJumpSprites_39
+    21300176: JohnsonJumpSprites_40
+    21300178: JohnsonJumpSprites_41
+    21300180: JohnsonJumpSprites_42
+    21300182: JohnsonJumpSprites_43
+    21300184: JohnsonJumpSprites_44
+    21300186: JohnsonJumpSprites_45
+    21300188: JohnsonJumpSprites_46
+    21300190: JohnsonJumpSprites_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 6923
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_11
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 5934
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_16
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 4945
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_19
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_22
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_23
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 3956
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_27
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_28
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_29
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2967
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_32
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_33
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_34
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_35
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1978
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_38
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_39
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_40
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_41
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 989
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_43
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_46
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: JohnsonJumpSprites_47
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 525
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
